@@ -1,12 +1,9 @@
-# Trello-REST-API-testing
+# ABOUT  
+In this project, I practiced basic API testing using Postman.
 
-<h1>**ABOUT** </h1>
-in this project i practiced basic API testing using Postman.
+## TEST EXECUTION SCHEDULE
 
-
-
-<h2>**TEST EXECUTION SCHEDULE**</h2>
-| Requests      | Dependancy    |
+| Requests      | Dependency    |
 | ------------- | ------------- |
 | Create Board  | None          |
 | Update Board  | Create Board  |
@@ -20,3 +17,4 @@ in this project i practiced basic API testing using Postman.
 | Update Card   | Create Card   |
 | Get Card      | Create Card   |
 | Delete Card   | Create Card   |
+
