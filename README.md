@@ -29,3 +29,6 @@ For every Post request , Update requeste , Delete request there should be a Get 
 
 
 
+## Preview 
+<img width="1086" height="648" alt="Screenshot 2025-07-19 at 7 34 03 pm" src="https://github.com/user-attachments/assets/fa851ccc-053e-401c-89c0-81d66b7d2a6b" />
+
